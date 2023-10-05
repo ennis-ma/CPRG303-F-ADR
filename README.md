@@ -1,5 +1,8 @@
 # University Social Networking App Development
 
+## By YUK KWAN, MA & KAM HUNG, HO
+
+
 This repository contains the architecture decision records (ADRs) for the development of a social networking mobile app for a university. The app aims to provide a platform for students and professors to connect, share information, manage schedules, and interact with the university community.
 
 ## Table of Contents
